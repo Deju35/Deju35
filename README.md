@@ -2,7 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Dejen Tesfai</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Hi, I'm Deju. A creative, full-stack software engineer with a passion for solving complex problems.
+
+</h3>
 
 - 📫 How to reach me **dejentesfaldet16@gmail.com**
 
